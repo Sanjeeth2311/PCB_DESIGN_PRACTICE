@@ -1,6 +1,6 @@
-# 🖥️ PCB_DESIGN Repository  
+# 🖥️ PCB_DESIGN_PRACTICE Repository  
 
-This repository contains a collection of my **PCB Design projects**, created using **KiCad** and **Proteus**.  
+This repository contains a collection of my **Practice PCB Design projects**, created using **KiCad** and **Proteus**.  
 Each folder includes circuit schematics, PCB layouts, and related design files.  
 
 ---
